@@ -9,8 +9,8 @@ from logs import registrar_evento, registrar_error
 class Reserva(Entidad):
     """Clase encargada de gestionar las reservas."""
 
-    def _init_(self, identificador, cliente, servicio, duracion):
-        super()._init_(identificador, "Reserva")
+    def __init__(self, identificador, cliente, servicio, duracion):
+        super().__init__(identificador, "Reserva")
 
         if cliente is None:
             raise ErrorReserva("Debe seleccionar un cliente.")

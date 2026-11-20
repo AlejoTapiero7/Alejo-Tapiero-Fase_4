@@ -8,7 +8,7 @@ from excepciones import ErrorValidacion, ErrorCliente
 class Entidad(ABC):
     """Clase abstracta que representa entidades generales."""
 
-    def _init_(self, identificador, nombre):
+    def __init__(self, identificador, nombre):
         if not isinstance(identificador, int) or identificador <= 0:
             raise ErrorValidacion("El identificador debe ser un entero positivo.")
 
@@ -35,8 +35,8 @@ class Entidad(ABC):
 class Cliente(Entidad):
     """Clase que permite registrar y gestionar clientes."""
 
-    def _init_(self, identificador, nombre, correo, telefono):
-        super()._init_(identificador, nombre)
+    def __init__(self, identificador, nombre, correo, telefono):
+        super().__init__(identificador, nombre)
 
         if not isinstance(correo, str) or "@" not in correo:
             raise ErrorCliente("El correo electronico no es valido.")

@@ -1,0 +1,138 @@
+2026-11-20 17:04:33,702 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:04:33,704 - ERROR - Operacion 1: Cliente() takes no arguments
+2026-11-20 17:04:33,706 - ERROR - Operacion 2: Cliente() takes no arguments
+2026-11-20 17:04:33,707 - ERROR - Operacion 3: Cliente() takes no arguments
+2026-11-20 17:04:33,712 - ERROR - Operacion 4: ReservaSala() takes no arguments
+2026-11-20 17:04:33,713 - ERROR - Operacion 5: AlquilerEquipo() takes no arguments
+2026-11-20 17:04:33,720 - ERROR - Operacion 6: Asesoria() takes no arguments
+2026-11-20 17:04:33,723 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:04:33,724 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:04:33,725 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:04:33,733 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:04:33,749 - INFO - Resumen general del sistema generado.
+2026-11-20 17:04:33,750 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:13:12,133 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:13:12,134 - INFO - Cliente registrado: Carlos Perez
+2026-11-20 17:13:12,135 - INFO - Cliente registrado: Maria Lopez
+2026-11-20 17:13:12,135 - ERROR - Operacion 3: El correo electronico no es valido.
+2026-11-20 17:13:12,136 - ERROR - Operacion 4: ReservaSala() takes no arguments
+2026-11-20 17:13:12,136 - ERROR - Operacion 5: AlquilerEquipo() takes no arguments
+2026-11-20 17:13:12,151 - ERROR - Operacion 6: Asesoria() takes no arguments
+2026-11-20 17:13:12,152 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:13:12,152 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:13:12,153 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:13:12,164 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:13:12,180 - INFO - Resumen general del sistema generado.
+2026-11-20 17:13:12,181 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:27:05,176 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:27:06,711 - ERROR - Operacion 1: 'super' object has no attribute '_init_'
+2026-11-20 17:27:06,736 - ERROR - Operacion 2: 'super' object has no attribute '_init_'
+2026-11-20 17:27:06,738 - ERROR - Operacion 3: 'super' object has no attribute '_init_'
+2026-11-20 17:27:06,739 - ERROR - Operacion 4: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:27:06,902 - ERROR - Operacion 5: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:27:07,061 - ERROR - Operacion 6: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:27:07,104 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:27:07,105 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:27:07,106 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:27:07,115 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:27:07,239 - INFO - Resumen general del sistema generado.
+2026-11-20 17:27:07,288 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:27:29,977 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:27:29,979 - ERROR - Operacion 1: 'super' object has no attribute '_init_'
+2026-11-20 17:27:29,980 - ERROR - Operacion 2: 'super' object has no attribute '_init_'
+2026-11-20 17:27:29,980 - ERROR - Operacion 3: 'super' object has no attribute '_init_'
+2026-11-20 17:27:29,981 - ERROR - Operacion 4: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:27:29,982 - ERROR - Operacion 5: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:27:29,983 - ERROR - Operacion 6: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:27:29,984 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:27:29,985 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:27:29,988 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:27:29,989 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:27:29,998 - INFO - Resumen general del sistema generado.
+2026-11-20 17:27:30,000 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:28:04,567 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:28:04,568 - ERROR - Operacion 1: 'super' object has no attribute '_init_'
+2026-11-20 17:28:04,569 - ERROR - Operacion 2: 'super' object has no attribute '_init_'
+2026-11-20 17:28:04,570 - ERROR - Operacion 3: 'super' object has no attribute '_init_'
+2026-11-20 17:28:04,571 - ERROR - Operacion 4: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:28:04,571 - ERROR - Operacion 5: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:28:04,572 - ERROR - Operacion 6: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:28:04,572 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:28:04,575 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:28:04,577 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:28:04,578 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:28:04,596 - INFO - Resumen general del sistema generado.
+2026-11-20 17:28:04,597 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:33:42,606 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:33:42,609 - ERROR - Operacion 1: 'super' object has no attribute '_init_'
+2026-11-20 17:33:42,610 - ERROR - Operacion 2: 'super' object has no attribute '_init_'
+2026-11-20 17:33:42,611 - ERROR - Operacion 3: 'super' object has no attribute '_init_'
+2026-11-20 17:33:42,614 - ERROR - Operacion 4: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:33:42,615 - ERROR - Operacion 5: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:33:42,618 - ERROR - Operacion 6: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:33:42,626 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:33:42,627 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:33:42,630 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:33:42,636 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:33:42,652 - INFO - Resumen general del sistema generado.
+2026-11-20 17:33:42,652 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:33:58,270 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:33:58,270 - ERROR - Operacion 1: 'super' object has no attribute '_init_'
+2026-11-20 17:33:58,271 - ERROR - Operacion 2: 'super' object has no attribute '_init_'
+2026-11-20 17:33:58,272 - ERROR - Operacion 3: 'super' object has no attribute '_init_'
+2026-11-20 17:33:58,272 - ERROR - Operacion 4: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:33:58,273 - ERROR - Operacion 5: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:33:58,273 - ERROR - Operacion 6: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:33:58,274 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:33:58,274 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:33:58,278 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:33:58,279 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:33:58,282 - INFO - Resumen general del sistema generado.
+2026-11-20 17:33:58,283 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:48:39,222 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:48:39,225 - INFO - Cliente registrado: Carlos Perez
+2026-11-20 17:48:39,226 - INFO - Cliente registrado: Maria Lopez
+2026-11-20 17:48:39,227 - ERROR - Operacion 3: El correo electronico no es valido.
+2026-11-20 17:48:39,227 - ERROR - Operacion 4: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:48:39,227 - ERROR - Operacion 5: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:48:39,228 - ERROR - Operacion 6: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:48:39,228 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:48:39,228 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:48:39,229 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:48:39,230 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:48:39,234 - INFO - Resumen general del sistema generado.
+2026-11-20 17:48:39,234 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 17:59:39,620 - INFO - Inicio del sistema Software FJ.
+2026-11-20 17:59:39,626 - INFO - Cliente registrado: Carlos Perez
+2026-11-20 17:59:39,627 - INFO - Cliente registrado: Maria Lopez
+2026-11-20 17:59:39,627 - ERROR - Operacion 3: El correo electronico no es valido.
+2026-11-20 17:59:39,628 - ERROR - Operacion 4: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:59:39,628 - ERROR - Operacion 5: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:59:39,629 - ERROR - Operacion 6: Entidad.__init__() takes 3 positional arguments but 4 were given
+2026-11-20 17:59:39,629 - ERROR - Operacion 7: list index out of range
+2026-11-20 17:59:39,631 - ERROR - Operacion 8: list index out of range
+2026-11-20 17:59:39,634 - ERROR - Operacion 9: list index out of range
+2026-11-20 17:59:39,634 - ERROR - Operacion 10: list index out of range
+2026-11-20 17:59:39,651 - INFO - Resumen general del sistema generado.
+2026-11-20 17:59:39,651 - INFO - Finalizacion del sistema Software FJ.
+2026-11-20 18:06:16,065 - INFO - Inicio del sistema Software FJ.
+2026-11-20 18:06:16,068 - INFO - Cliente registrado: Carlos Perez
+2026-11-20 18:06:16,068 - INFO - Cliente registrado: Maria Lopez
+2026-11-20 18:06:16,069 - ERROR - Operacion 3: El correo electronico no es valido.
+2026-11-20 18:06:16,070 - INFO - Servicio registrado: Sala de reuniones
+2026-11-20 18:06:16,181 - INFO - Servicio registrado: Computador portatil
+2026-11-20 18:06:16,183 - INFO - Servicio registrado: Asesoria informatica
+2026-11-20 18:06:16,184 - INFO - Reserva 201 creada para Carlos Perez.
+2026-11-20 18:06:16,187 - INFO - Reserva 201 confirmada.
+2026-11-20 18:06:16,188 - INFO - Reserva 201 procesada. Costo total: $107100.00
+2026-11-20 18:06:16,188 - INFO - Finalizo el intento de procesamiento de la reserva 201.
+2026-11-20 18:06:16,200 - INFO - Reserva 202 creada para Maria Lopez.
+2026-11-20 18:06:16,271 - INFO - Reserva 202 confirmada.
+2026-11-20 18:06:16,271 - INFO - Reserva 202 procesada. Costo total: $285600.00
+2026-11-20 18:06:16,271 - INFO - Finalizo el intento de procesamiento de la reserva 202.
+2026-11-20 18:06:16,272 - ERROR - Error al validar la reserva: La duracion de la asesoria debe ser positiva.
+2026-11-20 18:06:16,272 - ERROR - Operacion 9: No fue posible validar la duracion.
+2026-11-20 18:06:16,288 - INFO - Reserva 204 creada para Maria Lopez.
+2026-11-20 18:06:16,289 - INFO - Reserva 204 cancelada.
+2026-11-20 18:06:17,677 - INFO - Resumen general del sistema generado.
+2026-11-20 18:06:17,713 - INFO - Finalizacion del sistema Software FJ.

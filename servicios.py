@@ -9,8 +9,8 @@ from excepciones import ErrorValidacion, ErrorServicio
 class Servicio(Entidad):
     """Clase abstracta para representar los servicios."""
 
-    def _init_(self, identificador, nombre, precio_base):
-        super()._init_(identificador, nombre)
+    def __init__(self, identificador, nombre, precio_base):
+        super().__init__(identificador, nombre)
 
         if not isinstance(precio_base, (int, float)) or isinstance(precio_base, bool) or precio_base <= 0:
             raise ErrorValidacion("El precio base debe ser mayor que cero.")

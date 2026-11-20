@@ -182,5 +182,5 @@ def main():
     registrar_evento("Finalizacion del sistema Software FJ.")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
