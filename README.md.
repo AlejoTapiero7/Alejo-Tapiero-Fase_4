@@ -1,0 +1,49 @@
+SISTEMA SOFTWARE FJ
+
+Descripción del proyecto
+
+Sistema integral desarrollado en Python para la gestión de clientes, servicios y reservas.
+
+Objetivo
+
+Desarrollar un sistema que permita registrar clientes, administrar diferentes servicios y gestionar reservas, aplicando conceptos de programación orientada a objetos.
+
+Funcionalidades principales
+
+* Registro y gestión de clientes.
+* Validación de datos de los clientes.
+* Registro de servicios.
+* Creación y gestión de reservas.
+* Cálculo de costos, impuestos y descuentos.
+* Confirmación y cancelación de reservas.
+* Registro de eventos y errores del sistema.
+
+Tecnologías utilizadas
+
+* Lenguaje de programación: Python.
+* Editor de código: Visual Studio Code.
+* Control de versiones y repositorio: GitHub.
+
+Archivos del proyecto
+
+* main.py: ejecución principal del sistema.
+* entidades.py: clases y entidades generales.
+* excepciones.py: manejo de excepciones.
+* servicios.py: gestión de servicios.
+* reservas.py: administración de reservas.
+* logs.py: registro de eventos y errores.
+* registros.log: archivo de registros del sistema.
+
+Ejecución
+
+Para ejecutar el programa, abre la carpeta del proyecto en Visual Studio Code y ejecuta:
+
+python main.py
+
+Autor
+
+Alejo Tapiero Palomino
+
+Proyecto académico
+
+Fase 4 – Programación en Python.
